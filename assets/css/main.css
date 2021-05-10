@@ -29,6 +29,7 @@
 
 /* Light theme */
 body.light-theme { background-color: #F9F2E7; }
+body.light-theme .text-lightblue { color: #4ECDC4; }
 
 /* Dark theme */
 
