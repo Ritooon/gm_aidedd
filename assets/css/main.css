@@ -1,0 +1,35 @@
+/* General */
+.text-moon { color: #fff283; }
+.text-blood { color: #E84A5F; }
+.text-lightblue { color: #C5E0DC; }
+
+.bg-coral { background-color: #FF847C; }
+
+.ml-4 { margin-left: 1.5rem !important; }
+
+*:focus, *:focus, *:focus{
+    outline: none !important;
+}
+
+/* Misc */
+#dark-theme-switch, #light-theme-switch { cursor: pointer; }
+
+/* Heroes container */
+#heroes-container {
+    max-width: 600px;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+#heroes-container input {
+    height: 50px;
+    padding-left: 10px;
+    border-radius: 7px;
+}
+
+/* Light theme */
+body.light-theme { background-color: #F9F2E7; }
+
+/* Dark theme */
+
+body.dark-theme { background-color: #2A363B; }
